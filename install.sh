@@ -1,8 +1,5 @@
 #!/bin/bash
 
-cd ~/dc_sample_data
+sudo pamac install chromium
 
-for file in untrimmed_fastq/*.fastq
-do
-  echo "My file name is $file"
 done
